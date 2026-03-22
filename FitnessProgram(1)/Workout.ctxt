@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Workout
+comment1.params=exerciseName\ sets\ reps
+comment1.target=Workout(java.lang.String,\ int,\ int)
+comment2.params=met
+comment2.target=void\ setMet(double)
+comment3.params=
+comment3.target=void\ displayWorkout()
+comment4.params=
+comment4.target=int\ getSets()
+comment5.params=
+comment5.target=int\ getReps()
+comment6.params=
+comment6.target=java.lang.String\ getExerciseName()
+comment7.params=weightKg
+comment7.target=double\ calculateCalories(double)
+numComments=8
