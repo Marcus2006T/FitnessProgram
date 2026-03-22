@@ -2,7 +2,7 @@
 Java Fitness Program project
 # FitnessProgram
 
-A simple Java program to manage personalized fitness workouts and track user progress.
+A simple Java program to manage personalized fitness workouts and track user progress and calories.
 
 # Features
 
@@ -30,6 +30,7 @@ A simple Java program to manage personalized fitness workouts and track user pro
 - Add input from the user instead of hardcoded values  
 - Track progress over time  
 - Add more types of exercises and programs  
+- Track calories over time
 
 # Author
 
